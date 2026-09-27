@@ -6,6 +6,10 @@ public class Input {
 //      System.out.println("Please enter your roll no. ");
 //      int rollno = input.nextInt();
 //      System.out.println("Your roll no. is: "+ rollno);
-        int a = 10;
+//      String name = input.nextLine();
+//      System.out.println(name);
+
+//      float marks = input.nextFloat();
+//      System.out.println(marks);
     }
 }
