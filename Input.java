@@ -11,5 +11,19 @@ public class Input {
 
 //      float marks = input.nextFloat();
 //      System.out.println(marks);
+
+        // automatic type promotion in expressions
+        //int a = 280;
+        //byte b = (byte)(a);
+        //ystem.out.println(b);
+
+        //byte a = 40;
+        //byte b = 50;
+        //byte c = 100;
+        //int d = (a*b)/c;
+        //System.out.println(d);
+
+        int number = 'A';
+        System.out.println(number);
     }
 }
