@@ -23,7 +23,29 @@ public class Input {
         //int d = (a*b)/c;
         //System.out.println(d);
 
-        int number = 'A';
-        System.out.println(number);
+        //AUTOMATIC PROMOTION
+        //int number = 'A';
+        //int a = 299;
+        //float b = 78.233f;
+        //double c = 99.000009;
+        //double sum = a+b+c;
+        //System.out.println(sum);
+        //System.out.println(number);
+
+        //IF
+        //if(true){
+        //    System.out.println("HELLO WORLD");
+
+        //WHILE LOOP
+        //int count = 1;
+        //while(count<5){
+        //    System.out.println("Hello "+count+" times");
+        //    count++;
+        //}
+
+        //FOR LOOP
+        for(int count = 1; count<5; count++){
+            System.out.println(count);
+        }
     }
 }
