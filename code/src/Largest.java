@@ -14,6 +14,6 @@ public class Largest {
             max = c;
         }
         System.out.println("The maximum number amongst the three is: "+ max);
-        //Math.max() can also be used 
+        //Math.max() can also be used
     }
 }
