@@ -24,16 +24,22 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3Kei82Etxo9AlBenfUj9Ol12mMs" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Calculator.executor": "Run",
     "Application.CaseCheck.executor": "Run",
+    "Application.CountNums.executor": "Run",
     "Application.Largest.executor": "Run",
     "Application.Loops.executor": "Debug",
     "Application.Main.executor": "Run",
+    "Application.Reverse.executor": "Run",
     "Application.fibonacci.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
