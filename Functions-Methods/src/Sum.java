@@ -2,7 +2,15 @@ import java.util.Scanner;
 
 public class Sum {
     public static void main(String[] args) {
-        System.out.print("The sum is: "+sum());
+       // System.out.print("The sum is: "+sum());
+
+        int ans = sum3(66, 33);
+        System.out.println(ans);
+    }
+
+    static int sum3 (int a, int b){
+        int sum = a+b;
+        return sum;
     }
 
     static int sum(){
