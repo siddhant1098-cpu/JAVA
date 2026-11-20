@@ -8,6 +8,7 @@ public class Swap {
 
         String name = "Siddhant Salunkhe";
         System.out.println(changeName (name));
+        System.out.println(name);
     }
     static String changeName(String name){
         name = "Om Satale";

@@ -1,7 +1,7 @@
 public class PassingExample {
     public static void main(String[] args) {
-        String name = "Siddhant Salunkhe";
-        greet (name);
+        String chacha = "Iron Man";
+        greet (chacha);
     }
 
     static void greet(String naam){
